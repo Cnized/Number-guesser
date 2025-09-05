@@ -70,4 +70,5 @@ Add a timer or countdown to increase challenge.
 Create a graphical version with Python GUI (Tkinter or Pygame).
 ```
 
-Built with ❤️ by Kian Kheiri N. ( @TheCnized )
+## Author 
+💻 Built with ❤️ by Kian Kheiri N. ([@TheCnized](https://github.com/TheCnized))
