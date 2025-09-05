@@ -68,6 +68,6 @@ Track high scores across multiple sessions.
 Add a timer or countdown to increase challenge.
 
 Create a graphical version with Python GUI (Tkinter or Pygame).
+```
 
-Author
-Created by Kian Kheiri (The Cnized)
+Built with ❤️ by Kian Kheiri N. ( @TheCnized )
